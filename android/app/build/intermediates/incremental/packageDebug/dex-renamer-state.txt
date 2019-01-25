@@ -1,0 +1,4 @@
+#Fri Jan 25 12:00:03 JST 2019
+base.0=/Users/kents/native3/20181026_Tour2017/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/kents/native3/20181026_Tour2017/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

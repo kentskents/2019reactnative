@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "47181628500",
+    "firebase_url": "https://tour2018-185706.firebaseio.com",
+    "project_id": "tour2018-185706",
+    "storage_bucket": "tour2018-185706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47181628500:android:56c93c427cf0be16",
+        "android_client_info": {
+          "package_name": "com.tour2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47181628500-9vg3se1989jp95evp9lov21l6hkpthpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQava7f3-Q55lTxt3rIbQyKQx1AdAjhYI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47181628500:android:09252100554da81f",
+        "android_client_info": {
+          "package_name": "com.mapsplayground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47181628500-9vg3se1989jp95evp9lov21l6hkpthpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQava7f3-Q55lTxt3rIbQyKQx1AdAjhYI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

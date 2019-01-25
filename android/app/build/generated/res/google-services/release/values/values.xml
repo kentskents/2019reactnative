@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">47181628500-9vg3se1989jp95evp9lov21l6hkpthpq.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://tour2018-185706.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">47181628500</string>
+    <string name="google_api_key" translatable="false">AIzaSyCQava7f3-Q55lTxt3rIbQyKQx1AdAjhYI</string>
+    <string name="google_app_id" translatable="false">1:47181628500:android:56c93c427cf0be16</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCQava7f3-Q55lTxt3rIbQyKQx1AdAjhYI</string>
+    <string name="google_storage_bucket" translatable="false">tour2018-185706.appspot.com</string>
+</resources>

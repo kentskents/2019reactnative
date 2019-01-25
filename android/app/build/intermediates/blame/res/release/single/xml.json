@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kents/native3/20181026_Tour2017/android/app/build/intermediates/res/merged/release/xml/provider_paths.xml",
+        "source": "/Users/kents/native3/20181026_Tour2017/android/app/build/intermediates/exploded-aar/Tour2018/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/kents/native3/20181026_Tour2017/android/app/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/kents/native3/20181026_Tour2017/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/res/xml/preferences.xml"
+    }
+]
